@@ -1,0 +1,11 @@
+body{font-family: 'Poppins', sans-serif;}
+h1{font-size: 55px;}
+.orange-color{color: orange;}
+section{display: flex;}
+.half-width{width: 50%; padding-left: 2%;}
+.half-width img {width: 80%;}
+.hire-me{background-image: linear-gradient(orange tomato ); text-decoration: none;background-color: orange; padding: 10px 40px; border-radius: 5px;color: white ;font-weight: 700;}
+.top-banner{background-image: url(images/top-banner.png);background-repeat: no-repeat;}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
